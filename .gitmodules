@@ -1,0 +1,4 @@
+[submodule "gmmk-pro/qmk_firmware"]
+	path = gmmk-pro/qmk_firmware
+	url = git@github.com:qmk/qmk_firmware.git
+	ignore = dirty
